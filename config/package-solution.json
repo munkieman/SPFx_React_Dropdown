@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "react-dropdown-client-side-solution",
+    "id": "641d1811-e927-42dd-b71f-4247297913c7",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.16.1"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "React-Dropdown description"
+      },
+      "longDescription": {
+        "default": "React-Dropdown description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "react-dropdown Feature",
+        "description": "The feature that activates elements of the react-dropdown solution.",
+        "id": "0cd1529c-c3fd-4dd7-ae35-f216a8047100",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/react-dropdown.sppkg"
+  }
+}

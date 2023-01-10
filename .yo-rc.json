@@ -1,0 +1,21 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "16.15.0",
+    "sdksVersions": {
+      "@microsoft/microsoft-graph-client": "3.0.2",
+      "@microsoft/teams-js": "2.4.1"
+    },
+    "version": "1.16.1",
+    "libraryName": "react-dropdown",
+    "libraryId": "641d1811-e927-42dd-b71f-4247297913c7",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "React-Dropdown",
+    "solutionShortDescription": "React-Dropdown description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}

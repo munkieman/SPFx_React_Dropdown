@@ -1,0 +1,18 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "react-dropdown-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/reactDropdown/ReactDropdownWebPart.js",
+          "manifest": "./src/webparts/reactDropdown/ReactDropdownWebPart.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {},
+  "localizedResources": {
+    "ReactDropdownWebPartStrings": "lib/webparts/reactDropdown/loc/{locale}.js"
+  }
+}
